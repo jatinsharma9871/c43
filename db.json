@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "jatin",
+      "password": "jatin",
+      "location": "faridabad",
+      "interests": [
+        "technology",
+        "movies",
+        "culture",
+        "technology",
+        "movies",
+        "culture"
+      ],
+      "image": "jas",
+      "subscribed": [],
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "location": "delhi",
+      "interests": [
+        "culture"
+      ],
+      "image": "awe",
+      "subscribed": [],
+      "id": 2
+    }
+  ],
+  "meetups": [
+    {
+      "title": "sad",
+      "location": "kolkata",
+      "date": "2020-10-02",
+      "time": "11:30",
+      "theme": "food",
+      "description": "mad",
+      "image": "sad",
+      "id": 1
+    },
+    {
+      "title": "sad",
+      "location": "kolkata",
+      "date": "2020-10-02",
+      "time": "11:30",
+      "theme": "food",
+      "description": "mad",
+      "image": "sad",
+      "id": 2
+    }
+  ]
+}
